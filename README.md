@@ -4,13 +4,9 @@ Minecraft Mod. Adds additional variants of bone meal for all your fertilization 
 
 - [Modpack Permissions](https://mods.twelveiterations.com/permissions)
 
-#### Forge
+#### Downloads
 
 [![Versions](http://cf.way2muchnoise.eu/versions/304095_latest.svg)](https://minecraft.curseforge.com/projects/fertilization) [![Downloads](http://cf.way2muchnoise.eu/full_304095_downloads.svg)](https://minecraft.curseforge.com/projects/fertilization)
-
-#### Fabric
-
-[![Versions](http://cf.way2muchnoise.eu/versions/506759_latest.svg)](https://minecraft.curseforge.com/projects/fertilization-fabric) [![Downloads](http://cf.way2muchnoise.eu/full_506759_downloads.svg)](https://minecraft.curseforge.com/projects/fertilization-fabric)
 
 ## Contributing
 
