@@ -42,7 +42,7 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                         .pattern("BF")
                         .pattern("FB")
                         .define('B', Items.BONE_MEAL)
-                        .define('F', ItemTags.FLOWERS)
+                        .define('F', ItemTags.SMALL_FLOWERS)
                         .unlockedBy("has_bone_meal", has(Items.BONE_MEAL))
                         .save(exporter);
             }

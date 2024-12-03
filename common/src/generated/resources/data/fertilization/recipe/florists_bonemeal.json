@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "B": "minecraft:bone_meal",
-    "F": "#minecraft:flowers"
+    "F": "#minecraft:small_flowers"
   },
   "pattern": [
     "BF",
